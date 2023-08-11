@@ -1,9 +1,9 @@
 # London-Bike_RIdes_Analysis_using_Tableau
 
 ## Project Overview
-Welcome to the London Bike Rides Analysis project repository! In this guided project, I performed an analysis of bike ride data in London using Tableau. This README provides an overview of the project, its purpose, data sources, and how to access and use the Tableau visualization.
+Welcome to the London Bike Rides Analysis project repository! This project is based on the analysis of bike ride data in London, which I conducted by following a YouTube tutorial by [Mo Chen](https://www.youtube.com/watch?v=nl9eZl1IOKI). In this guided project, I performed an analysis of bike ride data in London using Tableau. This README provides an overview of the project, its purpose, data sources, and how to access and use the Tableau visualization.
 
-![https://public.tableau.com/app/profile/jeel.kenia/viz/LondonBikeRides-MovingAverageandHeatmap_16903743986650/Dashboard1](https://github.com/Jeel-Kenia/London-Bike_RIdes_Analysis/blob/main/London_Bike_Rides_ss.png)
+![image](https://github.com/Jeel-Kenia/London-Bike_RIdes_Analysis/blob/main/London_Bike_Rides_ss.png)
 [Link to Dashboard](https://public.tableau.com/app/profile/jeel.kenia/viz/LondonBikeRides-MovingAverageandHeatmap_16903743986650/Dashboard1) 
 
 ## Purpose
